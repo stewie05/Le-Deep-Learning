@@ -2,7 +2,8 @@
 `rapport projet` est un dossier de recherche en binôme sur le **DeepLearning et les méthodes de classification supervisées** (création d’un réseau multicouche à partir de numpy : **Partie I** ; implémentation de réseaux neuronaux convolutifs à partir des bibliothèques TFlearnet Tensorflow, **Partie II**). Le projet était de notre initiative et fait sous la direction d’un enseignant-chercheur de l’UTT.
 
 Les implémentations sont réalisées sur le cifar-10-batche ainsi que sur un [batch de chiens et de chats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition). Pour la partie I et quelques algorithmes de la partie II, ce sont des implémentations originales. Elles sont présentées en détails dans le rapport.
-[](https://github.com/stewie05/Le-Deep-Learning/blob/master/PARTIE%20I/Capture%20d%E2%80%99%C3%A9cran%202021-01-28%20130208.png)
+<p align="center"> <img src="https://github.com/stewie05/Le-Deep-Learning/blob/master/PARTIE%20I/Capture%20d%E2%80%99%C3%A9cran%202021-01-28%20130208.png" width="350" alt="accessibility text">
+</p>
 
 ## Sommaire du rapport
 #### Partie I : Introduction au Deep Learning
