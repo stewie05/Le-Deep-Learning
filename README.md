@@ -15,3 +15,5 @@
 * Le jeu des dimensions
 * Quelques détails supplémentaires
 * Implémentations réalisées
+
+_Auteurs : Lucien DEROUET & Benoit ESTRADE_
