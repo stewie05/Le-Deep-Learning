@@ -1,5 +1,5 @@
 # Le-Deep-Learning
-`rapport projet` est un dossier de recherche en binôme sur le **DeepLearning et les méthodes de classification supervisées** (création d’un réseau multicouche à partir de numpy : Partie I ; implémentation de réseaux neuronaux convolutifs à partir des bibliothèques TFlearnet Tensorflow, Partie II ). Le projet était de notre initiative et fait sous la direction d’un enseignant-chercheur de l’UTT.
+`rapport projet` est un dossier de recherche en binôme sur le **DeepLearning et les méthodes de classification supervisées** (création d’un réseau multicouche à partir de numpy : **Partie I** ; implémentation de réseaux neuronaux convolutifs à partir des bibliothèques TFlearnet Tensorflow, **Partie II**). Le projet était de notre initiative et fait sous la direction d’un enseignant-chercheur de l’UTT.
 
 ## Sommaire du rapport
 #### Partie I : Introduction au Deep Learning
